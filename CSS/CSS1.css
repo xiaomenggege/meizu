@@ -1,0 +1,164 @@
+.main{
+    width: 1869px;
+    margin: 0 auto;
+}
+.top1{
+    float: left;
+    width: 1869px;
+    height: 244px;
+}
+.top2{
+    float: left;
+    width: 1869px;
+    height: 593px;
+}
+.left{
+    float: left;
+    width: 1143px;
+    height: 593px;
+}
+.in{
+    float: left;
+    width: 460px;
+    height: 593px;
+}
+.top2_shang{
+    float: left;
+    width: 460px;
+    height: 171px;
+}
+.top2_shang ul{
+    margin-left: 82px;
+    margin-top: 93px;
+}
+.top2_shang li{
+    float: left;
+    margin-right: 47px;
+}
+.top2_shang img{
+    margin-top: 10px;
+}
+.top2_shang a{
+    text-decoration: none;
+    font-size: 25px;
+}
+.a2{
+    color: #000000;
+}
+.a1{
+    color: #8b8b8b;
+}
+.top2_zhong{
+    float: left;
+    width: 460px;
+    height: 320px;
+}
+.top2_zhong li{
+    margin-top: 25px;
+    margin-left: 44px;
+}
+.input1{
+    width: 372px;
+    height: 59px;
+}
+.input2{
+    width: 23px;
+    height: 23px;
+}
+.input3{
+    width: 377px;
+    height: 59px;
+}
+.top2_zhong span{
+    font-size: 18px;
+}
+.top2_zhong2{
+    float: left;
+    width: 477px;
+    height: 58px;
+}
+.top2_zhong2 img{
+    margin-left: 44px;
+}
+.right{
+    float: left;
+    width: 266px;
+    height: 593px;
+}
+.top3{
+    float: left;
+    width: 1869px;
+    height: 228px;
+}
+.top4{
+    width: 1869px;
+    height: 40px;
+    float: left;
+}
+.top4_zuo{
+    float: left;
+    width: 911px;
+    height: 40px;
+}
+.top4_zuo ul{
+    margin-left: 309px;
+}
+.top4_zuo li{
+    float: left;
+    line-height: 40px;
+    margin-right: 11px;
+}
+.top4_zuo a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 16px;
+}
+.top4_zuo a:hover{
+    text-decoration: none;
+    color: red;
+}
+.top4_in{
+    width: 493px;
+    height: 40px;
+    float: left;
+}
+.top4_in li{
+    float: left;
+    line-height: 40px;
+    font-size: 16px;
+}
+.top4_span1{
+    color:#000000;
+}
+.top4_span2{
+    margin-left: 16px;
+    color:#000000;
+}
+.top4_span3{
+    margin-left: 30px;
+    color: #ffffff;
+    background-color: #32a5e7;
+    padding: 3px 5px;
+}
+.top4_you{
+    float: left;
+    width: 465px;
+    height: 40px;
+}
+.top4_you li{
+    float: left;
+    margin-right: 18px;
+}
+.top2_di a{
+    text-decoration: none;
+    color: #387aff;
+    font-size: 18px;
+}
+.top2_span1{
+    margin-left: 44px;
+    margin-top: 15px;
+}
+.top2_span2{
+    margin-left: 258px;
+    margin-top: 15px;
+}

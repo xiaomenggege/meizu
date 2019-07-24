@@ -1,0 +1,43 @@
+/*CSS公用样式*/
+html,body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, blockquote, th, td {
+    margin:0;
+    padding:0;
+}
+
+body{
+    scrollbar-face-color: #f6f6f6;
+    scrollbar-highlight-color: #ffffff;
+    scrollbar-shadow-color: #cccccc;
+    scrollbar-3dlight-color: #cccccc;
+    scrollbar-arrow-color: #330000;
+    scrollbar-track-color: #f6f6f6;
+    font-size:12px;
+    background:#FFF;
+    font-family: 微软雅黑, Tahoma, Helvetica, sans;
+}
+
+table {border-collapse:collapse;border-spacing:0;}
+
+img {border:0;}
+
+li {list-style:none;}
+
+sup {vertical-align:text-top;}
+
+sub {vertical-align:text-bottom;}
+
+input, textarea, select {font-family:inherit;font-size:inherit;font-weight:inherit;}
+
+/*带清除高度的10PX高的空DIV*/
+.blank{clear:both;height:10px;overflow:hidden;font-size:0;}
+.blank1{clear:both;height:5px;overflow:hidden;font-size:0;}
+
+/*单行隐藏*/
+.str{white-space:nowrap;word-break:keep-all;overflow:hidden;text-overflow:ellipsis;}
+
+/*多行隐藏*/
+.strmore{overflow:hidden;text-overflow:ellipsis;}
+
+/*带清除高度的0PX高的空DIV*/
+.cls{clear:both;height:0;overflow:hidden;background:#FFF;}
+

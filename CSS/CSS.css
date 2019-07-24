@@ -1,0 +1,252 @@
+.main{
+    width: 1869px;
+    margin: 0 auto;
+}
+.top{
+    float: left;
+    width: 1869px;
+    height: 838px;
+    background:url("../img/aaa.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.top_li3{
+    float: right;
+    margin-top: 43px;
+    padding-right: 49px;
+}
+.top_li1{
+    float: right;
+    padding-right: 156px;
+    margin-top: 31px;
+}
+.top_li2{
+    float: right;
+    padding-right: 49px;
+    margin-top: 38px;
+}
+.top_li4{
+    float: right;
+    padding-right: 49px;
+    margin-top: 33px;
+}
+.top a{
+    color: white;
+    float: left;
+    text-decoration: none;
+}
+.top a:hover{
+    color: #00b9f2;
+    float: right;
+    text-decoration: none;
+}
+.ssk{
+    width:213px;
+    height: 37px;
+    border-top: 1px solid #cecece;
+    border-left: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    background:  url(../img/T3.gif) no-repeat white 184px;
+    border-radius: 17px;
+}
+.top2{
+    float: left;
+    width: 1869px;
+    height: 345px;
+}
+.top2 li{
+    float: left;
+}
+.top2_li1{
+    margin-top: 73px;
+    padding-left: 283px;
+}
+.top2_li2{
+    margin-top: 69px;
+    padding-left: 258px;
+}
+.top2_li3{
+    margin-top: 83px;
+    padding-left: 266px;
+}
+.top2_li4{
+    margin-top: 68px;
+    padding-left: 252px;
+}
+.top3{
+    float: left;
+    width: 1869px;
+    height: 119px;
+    background: url("../img/T8.gif")repeat-x;
+}
+.top3 p{
+    text-align: center;
+    margin-top: 73px;
+    font-size: 35px;
+}
+.top4{
+    margin-top: 13px;
+    float: left;
+    width: 1869px;
+    height: 563px;
+}
+.top4 img{
+    float: left;
+    width: 1869px;
+    height: 563px;
+}
+.top5{
+    float: left;
+    width: 1869px;
+    height: 1738px;
+    background-color: #f4f4f4;
+}
+.top5_ul1{
+    float: left;
+    margin-left: 159px;
+}
+.top5_ul1 li{
+    float: left;
+    margin-left: 11px;
+    margin-top: 13px;
+}
+.top6{
+    float: left;
+    width: 1869px;
+    height: 1444px;
+    background-color: #f4f4f4;
+}
+.top6 ul{
+    float: left;
+    margin-left: 159px;
+}
+.top6 li{
+    float: left;
+    width: 379px;
+    height: 469px;
+    margin-left: 11px;
+    margin-top: 13px;
+}
+.top7{
+    float: left;
+    width: 1869px;
+    height: 982px;
+    background-color: #f4f4f4;
+}
+.top7_ul{
+    float: left;
+    margin-left: 159px;
+}
+.top7 li{
+    float: left;
+    margin-left: 11px;
+    margin-top: 13px;
+}
+.top7_xia{
+    float: left;
+    width: 379px;
+    height: 247px;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+.top7_xia_li1{
+    background: url("../img/T56.gif") left center no-repeat;
+    text-indent: 4em;
+    font-size: 18px;
+    color: #515151;
+}
+.top7_xia_li2{
+    font-size: 21px;
+    color: #515151;
+}
+.top7_xia_li3{
+    color: #999999;
+    font-size: 18px;
+    padding-top: 59px;
+}
+.top8{
+    float: left;
+    width: 1869px;
+    height: 631px;
+    background-color: #f4f4f4;
+}
+.top8_li1{
+    float: left;
+    width: 769px;
+    height: 306px;
+    margin-left: 11px;
+    margin-top: 13px;
+}
+.top8_li2{
+    float: left;
+    width: 379px;
+    height: 306px;
+    margin-left: 11px;
+    margin-top: 13px;
+}
+.top8_ul{
+    float: left;
+    margin-left: 159px;
+}
+.top8_ul li{
+    float: left;
+}
+.top8_xia{
+    float: left;
+    width: 379px;
+    height: 68px;
+    line-height: 15px;
+    color: #515151;
+    background-color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+.top9{
+    float: left;
+    width: 1869px;
+    height: 696px;
+    background-color: #f4f4f4;
+}
+.top9 ul{
+    float: left;
+    margin-left: 159px;
+}
+.top9 li{
+    float: left;
+    width: 379px;
+    height: 305px;
+    margin-left: 11px;
+    margin-top: 13px;
+}
+.top9_xia{
+    float: left;
+    width: 379px;
+    height: 67px;
+    line-height: 35px;
+    background-color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+.di2 ul{
+    margin-left: 160px;
+}
+.di2 li{
+    float: left;
+    margin-right: 19px;
+}
+.di2 a{
+    text-decoration: none;
+    color: #d6d6d6;
+}
+.di2 a:hover{
+    text-decoration: none;
+    color: red;
+}
+.di2_li{
+    background: url("../img/T59.gif")left center no-repeat;
+    text-indent: 2em;
+}
