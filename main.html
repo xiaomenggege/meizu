@@ -7,6 +7,22 @@
     <link rel="stylesheet" href="CSS/CSS.css" type="text/css">
 </head>
 <body>
+<script src="js/jquery-1.12.4.js" type="text/javascript" charset="utf-8"></script>
+<script>
+    $(function(){
+        lb();
+        var index=0;
+        $(".top").css({"background":"url('img/a0.jpg')no-repeat center center fixed","background-size":"cover"});
+        setInterval(lb,2000);
+        function lb(){
+           index++;
+            if(index == 3){
+                index = 0;
+            }
+            $(".top").css({"background":"url('img/a"+index+".jpg')no-repeat center center fixed","background-size":"cover"});
+        }
+    });
+</script>
 <div class="main">
     <div class="top">
         <ul>

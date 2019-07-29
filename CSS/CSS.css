@@ -6,10 +6,8 @@
     float: left;
     width: 1869px;
     height: 838px;
-    background:url("../img/aaa.jpg")no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background:url("../img/a0.jpg")no-repeat center center fixed;
+    /*overflow: hidden;*/
     background-size: cover;
 }
 .top_li3{
